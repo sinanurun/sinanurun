@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # Merhaba, ben [Sinan URUN]! 👋
 # Hello, I'am [Sinan URUN]! 👋
