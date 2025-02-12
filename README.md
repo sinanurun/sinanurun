@@ -1,21 +1,22 @@
 ## Hi there 👋
 
-# Merhaba, ben [Adınız]! 👋
+# Merhaba, ben [Sinan URUN]! 👋
+# Hello, I'am [Sinan URUN]! 👋
 
 ## Hakkımda
-- 🌱 Öğrenmeye devam ediyorum: [ilgi alanları]
-- 🔭 Şu anda çalıştığım projeler: [proje detayları]
+- 🌱 Öğrenmeye devam ediyorum: [Python, Yapay Zeka, Veri Bilimi, Mobil Programlama]
+- 🔭 Şu anda çalıştığım projeler: [Eğitim İçerikleri]
 
 ## 🌐 Sosyal Bağlantılar
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kullanıcı_adınız)
-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kullanıcı_adınız)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kullanıcı_adınız)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kullanıcı_adınız)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kullanıcı_adınız)
-- 📫 E-posta: [email@example.com](mailto:email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinanurun)
+- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sinanurun)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uruninan)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinanurun)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/sinanurun)
+- 📫 E-posta: [email@example.com](mailto:sinanurun24@gmail.com)
 
 ## 📈 İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanıcı_adınız&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinanurun&show_icons=true&theme=radical)
 
 
 <!--
