@@ -13,7 +13,7 @@
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uruninan)
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinanurun)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/sinanurun)
-- 📫 E-posta: [email@example.com](mailto:sinanurun24@gmail.com)
+- 📫 E-posta: [sinanurun24@gmail.com](mailto:sinanurun24@gmail.com)
 
 ## 📈 İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinanurun&show_icons=true&theme=radical)
