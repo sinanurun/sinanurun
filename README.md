@@ -1,22 +1,22 @@
 # Hi there 👋
 
-# Merhaba, ben Sinan URUN 👋
 # Hello, I'am Sinan URUN 👋
 
-## Hakkımda
-- 🌱 Öğrenmeye devam ediyorum: [Python, Yapay Zeka, Veri Bilimi, Mobil Programlama]
-- 🔭 Şu anda çalıştığım projeler: [Eğitim İçerikleri]
+## About Me
+- 🌱 I am constantly learning: [Python, Artificial Intelligence, Data Science, Mobile Programming]
+- 🔭 Current Projects: [Educational Content]
 
-## 🌐 Sosyal Bağlantılar
+## 🌐 Social Connections
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinanurun)
 - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sinanurun)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/urunsinan)
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinanurun)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/sinanurun)
-- 📫 E-posta: [sinanurun24@gmail.com](mailto:sinanurun24@gmail.com)
+- 📫 Email: [sinanurun24@gmail.com](mailto:sinanurun24@gmail.com)
 
-## 📈 İstatistiklerim
+## 📈 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinanurun&show_icons=true&theme=radical)
+
 
 
 <!--
