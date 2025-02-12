@@ -1,7 +1,7 @@
 # Hi there 👋
 
-# Merhaba, ben [Sinan URUN]! 👋
-# Hello, I'am [Sinan URUN]! 👋
+# Merhaba, ben Sinan URUN 👋
+# Hello, I'am Sinan URUN 👋
 
 ## Hakkımda
 - 🌱 Öğrenmeye devam ediyorum: [Python, Yapay Zeka, Veri Bilimi, Mobil Programlama]
